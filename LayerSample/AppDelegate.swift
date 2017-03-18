@@ -11,7 +11,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate{
 
     var window: UIWindow?
     
-    let APP_ID = "layer:///apps/staging/30843016-ff90-11e6-8ba3-02666a0b5884"
+    let APP_ID = ""
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         let ud = UserDefaults.standard
